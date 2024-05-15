@@ -1,7 +1,7 @@
 name: docker-push
 on:
   push:
-    branches: [ "ne" ]
+    branches: [ "main" ]
 
 jobs:
   build:
